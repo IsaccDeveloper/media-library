@@ -1,8 +1,38 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Instalación
 
-Currently, two official plugins are available:
+1. Clona el repositorio a tu máquina local:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    ```
+    git clone https://github.com/tu-usuario/media-library.git
+    ```
+
+2. Navega al directorio del proyecto:
+
+    ```
+    cd media-library
+    ```
+
+3. Instala las dependencias utilizando npm:
+
+    ```
+    npm install
+    ```
+
+### Uso
+
+1. Para ejecutar la aplicación en modo de desarrollo, utiliza el siguiente comando:
+
+    ```
+    npm run dev
+    ```
+
+2. Abre tu navegador web y navega a `http://localhost:5173` para ver la aplicación en acción.
+
+## Contribución
+
+Si deseas contribuir a este proyecto, ¡estamos abiertos a sugerencias y mejoras! Siéntete libre de abrir un issue o enviar un pull request.
+
+## Licencia
+
+Este proyecto está bajo la Licencia [MIT](LICENSE).
