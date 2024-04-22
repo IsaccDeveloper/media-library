@@ -28,3 +28,5 @@
     ```
 
 2. Abre tu navegador web y navega a `http://localhost:5173` para ver la aplicación en acción.
+
+3. Puedes usar uno de los tres usuarios que ya estan creados (UserAdmin, UserCreator, UserViewer) con la contraseña user1234 o crear uno desde cero
