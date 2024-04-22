@@ -28,11 +28,3 @@
     ```
 
 2. Abre tu navegador web y navega a `http://localhost:5173` para ver la aplicación en acción.
-
-## Contribución
-
-Si deseas contribuir a este proyecto, ¡estamos abiertos a sugerencias y mejoras! Siéntete libre de abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](LICENSE).
